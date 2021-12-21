@@ -1,0 +1,189 @@
+.fargo-page {
+    font-family: sans-serif;
+    position: relative;
+}
+
+.stage-one {
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.fa {
+    position: absolute;
+    right: 5px;
+    color:white;
+    top: 20px;
+}
+
+.first {
+    border: solid yellow;
+}
+
+.alert img {
+    color: blue;
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+}
+
+.alerti {
+    color: red;
+    position: absolute;
+    left: 50px;
+}
+
+.alertti {
+    position: absolute;
+    left: 100px;
+}
+.learn {
+    color: navy;
+    position: absolute;
+    left: 550px;
+}
+
+.more img {
+    position: absolute;
+    height: 20px;
+    color:navy;
+    width: 15px;
+    border-radius: 100%;
+    left: 635px;
+    top: 75px;
+}
+
+hr {
+    border: solid silver;
+}
+
+.search img {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    right: 80px;
+}
+
+.son {
+    position: absolute;
+    right: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.example {
+    padding: none;
+    border: none;
+}
+
+form.example {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid white;
+    float: left;
+    width: 20%;
+}
+
+form.example button {
+    float: right;
+    width: 20%;
+    padding: 10px;
+    color: white;
+    font-size: 17px;
+    border: solid white;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.example:hover {
+    background: #dbe0e2;
+}
+
+.you {
+    border: solid white;
+}
+
+.saving {
+background-image: url('./IMG_3426.PNG');
+height: 700px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.saving img {
+    position: absolute;
+    height: 100px;
+    bottom: 70px;
+    border-radius: 70%;
+    left: 0px;
+}
+
+.next {
+    position: absolute;
+    bottom: 120px;
+    left: 150px;
+    color:white;
+    font-size: 50px;
+}
+
+.auto {
+    position: absolute;
+    bottom: 80px;
+    left: 150px;
+    color: white;
+    font-size: 30px;
+}
+
+.hey {
+    position: absolute;
+    bottom: 40px;
+    color: white;
+    font-size: 30px;
+    left: 150px;
+}
+
+.another {
+    position: relative;
+    font-family: sans-serif;
+}
+.open img {
+    position: absolute;
+    height: 20px;
+    color:grey;
+    width: 15px;
+    border-radius: 100%;
+    right: 0px;
+    bottom: 20px;
+}
+
+.explore img {
+    position: absolute;
+    height: 20px;
+    color:grey;
+    width: 15px;
+    border-radius: 100%;
+    right: 0px;
+    bottom: 80px;
+}
+
+.find img {
+    position: absolute;
+    height: 20px;
+    color:grey;
+    width: 15px;
+    border-radius: 100%;
+    right: 0px;
+    bottom: 140px;
+}
+
+.get img {
+    position: absolute;
+    height: 20px;
+    color:grey;
+    width: 15px;
+    border-radius: 100%;
+    right: 0px;
+    bottom: 200px;
+}
